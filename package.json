@@ -1,6 +1,6 @@
 {
-  "name": "Docpad Study",
-  "version": "0.1,
+  "name": "docpadstudy",
+  "version": "0.1.0",
   "description": "Docpad Study é um material de apoio para estudantes do Docpad",
   "engines": {
     "node": "0.10",
